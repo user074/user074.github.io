@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href='https://calendly.com/qi-fred777/15min'> Calendly for Booking </a></p>
     <p>Email: jqi[at]gradcenter.cuny.edu </p>
 
 
@@ -18,6 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in the Computer Science program at the CUNY Graduate Center. My research interests include computer vision, language vision models, and AI agents. I am interested in applying machine learning techniques to solve real-world problems. I am advised by Prof. [Hao Tang](https://www.bmcc.cuny.edu/faculty/hao-tang/) and Prof. [Zhigang Zhu](https://www.ccny.cuny.edu/profiles/zhigang-zhu), co-advised by Prof. [Ping Ji](https://sites.google.com/view/ping-ji). Currently I am a member of the [CCVCL](http://ccvcl.org/) at the City College of New York.
+I am a PhD student in the Computer Science program at the CUNY Graduate Center. My research interests include language, vision, and reasoning. I am interested in applying machine learning techniques to solve real-world problems. I am advised by Prof. [Hao Tang](https://www.bmcc.cuny.edu/faculty/hao-tang/) and Prof. [Zhigang Zhu](https://www.ccny.cuny.edu/profiles/zhigang-zhu), co-advised by Prof. [Ping Ji](https://sites.google.com/view/ping-ji). Currently I am a member of the [CCVCL](http://ccvcl.org/) at the City College of New York.
 
 I am interested in collaborating with researchers and students. Please feel free to reach out to me if you are interested in collaborating or discussing research ideas.
+
+
+Recent News:
+- [2025-06] Proposed and now lead the Google CyberNYC–funded Cyberpunk project at CUNY, creating an LLM-powered red/blue-team framework that automates cyber-attack simulation and defense testing.
+
