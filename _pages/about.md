@@ -21,6 +21,7 @@ I am a PhD student in the Computer Science program at the CUNY Graduate Center. 
 
 I am interested in collaborating with researchers and students. Please feel free to reach out to me if you are interested in collaborating or discussing research ideas.
 
+If you are in NYC and interested in fencing, come fence with me! It's free and you'll get a free fencing lesson [website here](https://www.meetup.com/new-york-city-fencing-meetup/). 
 
 Recent News:
 - [2025-06] Proposed and now lead the Google CyberNYC–funded Cyberpunk project at CUNY, creating an LLM-powered red/blue-team framework that automates cyber-attack simulation and defense testing.
