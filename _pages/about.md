@@ -25,4 +25,3 @@ If you are in NYC and interested in fencing, come fence with me! It's free and y
 
 Recent News:
 - [2025-06] Proposed and now lead the Google CyberNYC–funded Cyberpunk project at CUNY, creating an LLM-powered red/blue-team framework that automates cyber-attack simulation and defense testing.
-
